@@ -1,9 +1,5 @@
 - 👋 Olá, eu sou Nivaldo Ribeiro
-- 👀 Estou interessado em ser desenvolvedor Back end e de aprender cada vez mais
-- 🌱 Estou estudando diversas linguagem, focando em aplicações praticas
-- ⚡ Fato divertido gosto muito de historias de ficção ciêntifica e fantasia atualmente escrevendo o meu próprio livro
-
-<!---
-Olhem os meus códigos e projetos na aba de Repositorios e fiquem a vontade para perguntar
-algo caso tenha duvidas. Seja bem vido ao meu perfil.
---->
+- Sou um estudante de ciência da computação na Unip de Ribeirão Preto
+- Trabalho como desenvolvedor backend na empresa Moore Prisma
+- Atualmente estou trabalhando bastante com a linguagem de programação Python
+- Olhem os meus repositorios sempre tento atualizar com coisas interessantes
